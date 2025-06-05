@@ -13,6 +13,8 @@ changelog:
 ## AdBlock
 Hides ads on Wikipedia, see [the page on Wikipedia.](en.wikipedia.org/wiki/User:Twineeea/AdBlock)
 
+install: Go to Wikipedia page
+
 changelog:
 
 - June 5
