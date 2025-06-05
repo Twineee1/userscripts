@@ -9,7 +9,7 @@ changelog:
 - June 5  
   - Hide "Learn more about chat"
 
-##AdBlock
+## AdBlock
 Hides ads on Wikipedia, see [the page on Wikipedia.](en.wikipedia.org/wiki/User:Twineeea/AdBlock)
 
 changelog:
