@@ -1,4 +1,4 @@
-# Old SEW chat
+# Old SE chat
 changelog:
 
 - June 5  
