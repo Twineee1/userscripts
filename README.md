@@ -3,6 +3,7 @@
 ## Old SE chat
 Changes the UI to look and feel like the old one which is slowly getting phased out.
 
+install: https://raw.githubusercontent.com/Twineee1/userscripts/refs/heads/main/SE/Old%20SE%20Chat
 
 changelog:
 
