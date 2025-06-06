@@ -8,6 +8,8 @@ changelog:
 
 - June 5  
   - Hide "Learn more about chat"
+- June 6
+  - Hide "Welcome to chat" modal
 
 ## AdBlock
 Hides ads on Wikipedia, see [the page on Wikipedia.](en.wikipedia.org/wiki/User:Twineeea/AdBlock)
