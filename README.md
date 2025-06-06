@@ -12,7 +12,7 @@ changelog:
   - Hide "Welcome to chat" modal
 
 ## AdBlock
-Hides ads on Wikipedia, see [the page on Wikipedia.](en.wikipedia.org/wiki/User:Twineeea/AdBlock)
+Hides ads on Wikipedia, see [the page on Wikipedia.](https://en.wikipedia.org/wiki/User:Twineeea/AdBlock)
 
 
 install: Go to Wikipedia page
