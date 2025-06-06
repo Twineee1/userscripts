@@ -14,12 +14,8 @@
     'use strict';
 
     $("body").append(`<style>
-    #learmore {
-        display: none;
-    }
-    .py12 {
+    #learmore, .py12, #welcome-to-chat-modal {
         display: none;
     }
     </style>`);
-    $("script[src=/Content/bundles/stacks.min.js?v=64d5b4a8959d]").remove();
 })();
