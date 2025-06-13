@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Old SE chat
 // @namespace    http://tampermonkey.net/
-// @version      2025-06-07
+// @version      2025-06-13
 // @description  try to take over the world with the old chat interface!
 // @author       Twineee
 // @match        https://chat.stackexchange.com/*
@@ -21,4 +21,6 @@
         display: none;
     }
     </style>`);
+
+    $("#allrooms").attr("class", "button");
 })();
