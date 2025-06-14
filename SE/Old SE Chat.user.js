@@ -23,4 +23,5 @@
     </style>`);
 
     $("#allrooms").attr("class", "button");
+    $("#siterooms").attr("class", "button");
 })();
