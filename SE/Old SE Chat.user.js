@@ -10,7 +10,7 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=tampermonkey.net
 // @require      https://code.jquery.com/jquery-3.6.0.min.js\
 // @grant        none
-// @updateURL    https://raw.githubusercontent.com/Twineee1/userscripts/refs/heads/main/SE/Old%20SE%20Chat
+// @updateURL    https://github.com/Twineee1/userscripts/raw/refs/heads/main/SE/Old%20SE%20Chat.user.js
 // ==/UserScript==
 
 (function() {
