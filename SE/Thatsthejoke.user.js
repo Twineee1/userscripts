@@ -9,6 +9,7 @@
 // @match        https://chat.meta.stackexchange.com/rooms/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=stackexchange.com
 // @grant        none
+// @updateURL    https://github.com/Twineee1/userscripts/raw/refs/heads/main/SE/Thatsthejoke.user.js
 // ==/UserScript==
 
 (function() {
