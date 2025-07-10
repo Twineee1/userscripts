@@ -13,6 +13,8 @@ changelog:
   - Hide "Welcome to chat" modal
 - June 13
   - make the "View all rooms" button like the olden days
+- July 10
+  - Hiding code of conduct link  
 
 ## That's The Joke!
 Adds a new button that posts "That's The Joke" from the Simpsons.
