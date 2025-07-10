@@ -17,7 +17,7 @@
     'use strict';
 
     $("body").append(`<style>
-    #learmore, .py12, #welcome-to-chat-modal {
+    #learmore, #codeofconduct, .py12, #welcome-to-chat-modal {
         display: none;
     }
     </style>`);
