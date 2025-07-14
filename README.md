@@ -1,6 +1,6 @@
 # Userscripts
 
-## Old SE chat
+## Old SE chat (unmaintained)
 Changes the UI to look and feel like the old one which is slowly getting phased out.
 
 install: [https://raw.githubusercontent.com/Twineee1/userscripts/refs/heads/main/SE/Old%20SE%20Chat](https://github.com/Twineee1/userscripts/raw/refs/heads/main/SE/Old%20SE%20Chat.user.js)
@@ -14,7 +14,9 @@ changelog:
 - June 13
   - make the "View all rooms" button like the olden days
 - July 10
-  - Hiding code of conduct link  
+  - Hiding code of conduct link
+- July 14
+  - Userscript development ended as I cannnot take this huge useless project.
 
 ## That's The Joke!
 Adds a new button that posts "That's The Joke" from the Simpsons.
