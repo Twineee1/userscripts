@@ -16,7 +16,7 @@ changelog:
 - July 10
   - Hiding code of conduct link
 - July 14
-  - Userscript development ended as I cannnot take this huge useless project.
+  - Userscript development ended as I cannnot take this huge useless project. (You can commit a change if you want to help, though.)
 
 ## That's The Joke!
 Adds a new button that posts "That's The Joke" from the Simpsons.
